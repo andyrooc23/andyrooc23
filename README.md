@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyrooc23
 - 👀 I’m interested in software engineering of all types
-- 🌱 I’m currently learning about internal matlab software dev at keysight tech as an intern
+- 🌱 I’m currently a Hardware Control C++ Software Engineer at Keysight Tech!Q
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me andyroocantrell@mail.com
 
