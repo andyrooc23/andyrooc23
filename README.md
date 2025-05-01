@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyrooc23
 - 👀 I’m interested in software engineering of all types
-- 🌱 I’m currently a Smart Connected Producst engineer at Keysight Technologies
+- 🌱 I’m currently a Smart Connected Products engineer at Keysight Technologies
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me andyroocantrell@mail.com
 
